@@ -2,7 +2,7 @@ from tkinter import*
 root= Tk()
 
 root.title("Trini Ride Taxi Service")
-root.geometry("300x300")
+root.geometry("400x400")
 root.configure(background="white")
 
 adminlogin_label = Label(root, text="Administrator Login")
